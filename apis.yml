@@ -1,19 +1,46 @@
 aid: axiamatic
 name: Axiamatic
-description: 'Axiamatic is a company surfaced as a portfolio company of greylock and added to the API
-  Evangelist network as a stub for enrichment. Sector: applications. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Axiamatic is an enterprise-transformation AI platform that aims to de-risk
+  and accelerate large modernization programs, claiming to cut up to 50% off the cost
+  and timeline of enterprise transformations. Its agentic platform combines a Living
+  Context Graph (a digital twin of a transformation program built from structured and
+  unstructured data), autonomous Transformation Agents that detect risks such as translation
+  loss, resistance, and cross-stream drift, role-specific Playbooks delivered into existing
+  workflows, and Axia, an AI assistant available via voice, chat, Microsoft Teams, or
+  Slack. It targets ERP modernization (SAP, Oracle, Microsoft Dynamics 365), CRM consolidation
+  (Salesforce, Dynamics), and supply-chain and business transformation. The company is
+  backed by Greylock and announced a $54M raise. It was surfaced as a Greylock portfolio
+  company and added to the API Evangelist network for enrichment; it currently publishes
+  a marketing site and a login application (app.axiamatic.com) but no public developer
+  or API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/axiamatic/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.sanity.io/images/r694f7i9/production/ec8ab42b3357aab573ff6a411a34ccfb713a663c-1200x630.png?w=1200&h=630
 x-type: company
 x-source: greylock-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Applications
+- Artificial Intelligence
+- Enterprise Software
+- Digital Transformation
+- ERP Modernization
+- AI Agents
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.axiamatic.com/
+- type: Blog
+  url: https://www.axiamatic.com/blog
+- type: PrivacyPolicy
+  url: https://www.axiamatic.com/privacy-policy
+- type: Login
+  url: https://app.axiamatic.com/
+- type: SignUp
+  url: https://www.axiamatic.com/get-a-demo
+- type: Support
+  url: mailto:support@axiamatic.com
+- type: LLMsTxt
+  url: llms/axiamatic-llms.txt
+- type: DomainSecurity
+  url: security/axiamatic-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/axiamatic-vulnerability-disclosure.yml
+- type: Security
+  url: security/axiamatic-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
