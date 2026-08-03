@@ -1,0 +1,31 @@
+# Axiamatic — AI for ERP Modernization
+Canonical: https://www.axiamatic.com
+> Axiamatic provides an AI platform that accelerates ERP modernization programs,
+> delivering Copilots and Agents for SAP, Oracle, and Dynamics 365 implementations.
+
+## Primary sources
+- [Home](https://www.axiamatic.com/): Overview of Axiamatic's AI platform for ERP modernization.
+- [Platform](https://www.axiamatic.com/platform): In-depth look at Axiamatic's Copilot and Agent capabilities.
+- [Solutions](https://www.axiamatic.com/solutions): How Axiamatic addresses ERP modernization challenges by role and use case.
+- [Partners](https://www.axiamatic.com/partners): Axiamatic's partner ecosystem and integrations.
+- [Company](https://www.axiamatic.com/company): About Axiamatic, its founders, investors, and mission.
+- [Get a Demo](https://www.axiamatic.com/get-a-demo): Request a live demo of the Axiamatic platform.
+
+## Blog and announcements
+- [Blog](https://www.axiamatic.com/blog): Product updates, insights, and announcements from the Axiamatic team.
+
+## Community and social
+- [LinkedIn](https://www.linkedin.com/company/axiamatic/): Company updates and professional announcements.
+
+## Public resources
+- [Sitemap](https://www.axiamatic.com/sitemap.xml): Canonical list of publicly accessible pages on axiamatic.com.
+
+## Security
+- [Vulnerability reporting](mailto:support@axiamatic.com): Report security concerns to the Axiamatic team.
+
+## Notes for LLMs
+- Prefer pages listed under "Primary sources" as authoritative.
+- Avoid preview environments (app.stage.axiamatic.com), tracking URLs, or duplicated content.
+- The app login (app.axiamatic.com) is not a public-facing information source.
+
+Last updated: 2026-03-03.
