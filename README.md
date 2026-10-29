@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Axiamatic is a company surfaced as a portfolio company of greylock and added to the API Evangelist network as a stub for enrichment. Sector: applications. This profile is a lead awaiting the enrichment pipeline.
+Axiamatic is an enterprise-transformation AI platform that aims to de-risk and accelerate large modernization programs, claiming to cut up to 50% off the cost and timeline of enterprise transformations. Its agentic platform combines a Living Context Graph (a digital twin of a transformation program built from structured and unstructured data), autonomous Transformation Agents that detect risks such as translation loss, resistance, and cross-stream drift, role-specific Playbooks delivered into existing workflows, and Axia, an AI assistant available via voice, chat, Microsoft Teams, or Slack. It targets ERP modernization (SAP, Oracle, Microsoft Dynamics 365), CRM consolidation (Salesforce, Dynamics), and supply-chain and business transformation. The company is backed by Greylock and announced a $54M raise. It was surfaced as a Greylock portfolio company and added to the API Evangelist network for enrichment; it currently publishes a marketing site and a login application (app.axiamatic.com) but no public developer or API surface.
 
-Source: portfolio company of [greylock](https://github.com/api-evangelist/greylock) — https://www.axiamatic.com/
+**Areas:** Company · Application · Artificial Intelligence · Enterprise Software · Digital Transformation · ERP Modernization · AI Agents
+
+## Axiamatic on APIs.io
+
+Everything profiled for Axiamatic is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/axiamatic/](https://apis.io/providers/axiamatic/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Axiamatic Domain Security](https://apis.io/security/axiamatic/axiamatic-domain-security/)
+- [Axiamatic Vulnerability Disclosure](https://apis.io/security/axiamatic/axiamatic-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.axiamatic.com/)
+- [Sign up](https://www.axiamatic.com/get-a-demo)
+- [Blog](https://www.axiamatic.com/blog)
+- [Privacy policy](https://www.axiamatic.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/axiamatic/](https://apis.io/providers/axiamatic/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Axiamatic: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/axiamatic/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
